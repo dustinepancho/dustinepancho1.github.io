@@ -1,0 +1,36 @@
+/****Global styles****/
+
+h1 {
+    color:#B6A39E;
+    text-transform: uppercase;
+}
+body {
+    color:#4F6367;
+    background-image:url(bg3.jpg.jpg);
+}
+.container {
+    background-color:#f8ffe4
+}
+ul {
+    list-style:none;
+    color:#7A9E9F
+}
+h2 {
+    color:#7A9E9F;
+}
+.surname {
+    color:#968782
+}
+
+/**** Resume Head ****/
+.resume-head H4{
+        color:#4F6367
+}
+/**** Sidebar ****/
+.profile-pic {
+    border-radius:50%;
+}
+/**** Work Experience ****/
+#objective {
+    margin-top: 3em
+}
